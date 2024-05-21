@@ -1,4 +1,4 @@
-# Project Name: GradioAIChatDemo
+# GradioAIChatDemo
 
 - **Run File**: `app.py`
 - **Configuration File**: `config.json`
